@@ -1,2 +1,2 @@
 # Snake
-Made the Snake game using Python
+Made the Snake game using Python.
